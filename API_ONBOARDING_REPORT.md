@@ -3,10 +3,15 @@
 ## 1. Resumen de la API
 
 **Nombre:** PotterAPI
+
 **Base URL:** https://potterapi-fedeperin.vercel.app
+
 **Arquitectura:** REST
+
 **Formato de respuesta:** JSON
+
 **Autenticación:** No requiere autenticación (API pública)
+
 **Rate limit:** No especificado públicamente
 
 PotterAPI es una API REST desarrollada con Express.js que proporciona información e imágenes del universo de Harry Potter, incluyendo libros, personajes, casas y hechizos.
